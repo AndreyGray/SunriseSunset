@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="sunrise_time">Sunrise time:</string>
+    <string name="sunset_time">Sunset time:</string>
+    <string name="location">Enter a location</string>
+    <string name="search">Search</string>
+    <string name="current_location">Current location</string>
+    <string name="selected_location">Selected location</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+</resources>
